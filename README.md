@@ -39,6 +39,10 @@ cd nome-do-repositorio
 3. Abra o arquivo index.html no navegador.
 
 
+## 🎬 Exemplo em Ação  
+
+![Compra ingresso](https://github.com/user-attachments/assets/2e0a6d1a-2b4f-4973-a451-a312fe7354cb)
+
 
 🧐 Como Funciona
 
